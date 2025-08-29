@@ -37,3 +37,5 @@ Employee attrition is more than just numbers—it’s about people. This dashboa
 
 🔹 Data Storytelling – to turn raw data into decisions
 
+🔹Microsoft Excel - the backbone for preparing, structuring & feeding clean HR data into Power BI
+
